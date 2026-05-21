@@ -1,5 +1,7 @@
 ---
-title: "Tareas Fernando"
-output: html_document
+title: "Tarea_01"
+author: "Fernando"
+output: pdf_document
 ---
+# Ejercicio 1
 
