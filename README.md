@@ -1,3 +1,5 @@
+# Repositorio_Analisis_Estadisticos
+
 # Repositorio de Diseños Experimentales - Enero 2026
 
 #Descripción del curso
@@ -7,7 +9,7 @@ con Git/Github.
 
 ##Desarrollo del curso
 
-###Clase 1
+###Clase 1 - 10/02/2026
 **Temas Vistos:**
 - Introducción a R y RStudio
 - Configuración de proyectos
@@ -16,7 +18,7 @@ con Git/Github.
 **Actividad:**
 - Instalación de paquetes en R
 
-###Clase 2
+###Clase 2 - 17/02/2026
 **Temas vistos:**
 - Estadística descriptiva
 - Medidas de tendencia central
